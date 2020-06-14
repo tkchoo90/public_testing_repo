@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lPlhxAsayxIuRvYtY1Rtdum6SCBaUyBNiCW9SFtIKJnkqPP5B510jv8VSv9bOaPZq0r8rBnwrjAGJSxj2BQ0gg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Documents\\Internchallenge\\fibo\\fibo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\3.1.2\\microsoft.netcore.app.host.linux-x64.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
